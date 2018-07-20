@@ -1,2 +1,2 @@
 ## SipDemo
-Make sure your sip address will be like this : "sip:<number>@<hostname>"
+Make sure your sipAddress is in this format "sip:(number)@(hostname)"
